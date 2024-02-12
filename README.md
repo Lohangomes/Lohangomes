@@ -1,10 +1,9 @@
 ## Bem-vindo(a) ao perfil do Lohan gomes😁
 
  <div>
-   <a href="https://github.com/Lohangomés
-">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lohangomés&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohangomés&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Lohangomes">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lohangomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohangomes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -15,7 +14,7 @@
  
 <br>
  
-### meu linkedin!
+### linkedin!
  
 <div> 
   <a href="https://www.linkedin.com/in/lohan-gomes-5248242a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
